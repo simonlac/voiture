@@ -1,0 +1,3 @@
+H:\windows programming\Exercice voiture\Exercice voiture\obj\Debug\Exercice voiture.csproj.AssemblyReference.cache
+H:\windows programming\Exercice voiture\Exercice voiture\obj\Debug\Exercice voiture.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Exercice voiture\Exercice voiture\obj\Debug\Exercice voiture.csproj.CoreCompileInputs.cache
